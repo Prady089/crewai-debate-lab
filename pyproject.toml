@@ -1,0 +1,16 @@
+[project]
+name = "crewai-debate-lab"
+version = "0.1.0"
+description = "A clean CrewAI debate project"
+requires-python = ">=3.10"
+
+dependencies = [
+  "crewai>=0.70.0",
+  "python-dotenv",
+]
+
+[tool.uv]
+package = true
+
+[tool.uv.workspace]
+members = ["."]

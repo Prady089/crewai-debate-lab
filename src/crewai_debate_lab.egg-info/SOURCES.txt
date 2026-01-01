@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/crewai_debate_lab/__init__.py
+src/crewai_debate_lab/crew.py
+src/crewai_debate_lab/main.py
+src/crewai_debate_lab.egg-info/PKG-INFO
+src/crewai_debate_lab.egg-info/SOURCES.txt
+src/crewai_debate_lab.egg-info/dependency_links.txt
+src/crewai_debate_lab.egg-info/requires.txt
+src/crewai_debate_lab.egg-info/top_level.txt

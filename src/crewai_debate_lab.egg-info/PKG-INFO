@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: crewai-debate-lab
+Version: 0.1.0
+Summary: A clean CrewAI debate project
+Requires-Python: >=3.10
+Requires-Dist: crewai>=0.70.0
+Requires-Dist: python-dotenv
